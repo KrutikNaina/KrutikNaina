@@ -3,7 +3,6 @@
  <br/>
 ## Ask me about :computer: 
 
-<img align="right" src="https://github.com/Iamdivyeshh/Iamdivyeshh/blob/master/Assets/Developer.gif"/>
 
 - **Web Development**
     - HTML
@@ -48,9 +47,11 @@
 <br />
 <br />
 
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
+<br />
 
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIamdivyeshh%2F" /></p>
-<br/>
+
 <p>
 Visit my profile and give a ⭐️ if you like it</p>
 
