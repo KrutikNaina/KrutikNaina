@@ -28,7 +28,7 @@
 
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/Iamdivyeshh/Iamdivyeshh/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me</h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/krutik-naina-a82a80236/" target="blank">
@@ -48,9 +48,6 @@
 <br />
 <br />
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br />
 
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIamdivyeshh%2F" /></p>
 <br/>
