@@ -36,9 +36,6 @@
  <a href="https://www.instagram.com/krutik_nena/" target="blank">
   <img align="center" alt="Krutik Naina Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://x.com/NenaKrutik?t=cHDqqESCGXP7luH_f12pWQ&s=08" target="blank">
-  <img align="center" alt="Krutik Naina Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
- </a>
  
   <br/>
   <br/>
